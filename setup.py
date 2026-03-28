@@ -52,7 +52,7 @@ setup(
             "mypy>=1.0.0",
         ],
         "media": [
-            "pysilk-python>=0.1.0",
+            "pysilk>=0.0.1",
         ],
         "cli": [
             "requests>=2.28.0",

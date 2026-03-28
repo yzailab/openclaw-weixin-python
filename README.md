@@ -31,7 +31,7 @@ pip install -e ".[dev]"
 
 ```bash
 # 纯 Python (推荐)
-pip install pysilk-python
+pip install pysilk
 ```
 
 ## 快速开始

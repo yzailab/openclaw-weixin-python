@@ -31,7 +31,7 @@ For voice message transcoding:
 
 ```bash
 # Pure Python (recommended)
-pip install pysilk-python
+pip install pysilk
 ```
 
 ## Quick Start
