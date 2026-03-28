@@ -17,12 +17,6 @@ Easy-to-use Python SDK to connect OpenClaw with WeChat apps.
 
 ## Installation
 
-### From PyPI
-
-```bash
-pip install openclaw-weixin-python
-```
-
 ### From Source
 
 ```bash

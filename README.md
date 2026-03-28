@@ -17,12 +17,6 @@
 
 ## 安装
 
-### 从 PyPI 安装
-
-```bash
-pip install openclaw-weixin-python
-```
-
 ### 从源码安装
 
 ```bash
